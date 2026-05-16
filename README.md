@@ -1,3 +1,4 @@
+
 # Project Demo
 
 ## Circuit Diagram
@@ -26,7 +27,8 @@ https://github.com/user-attachments/assets/1461074e-27c2-4527-ad9f-52be6f50def1
 
 Screen recording of the dashboard interacting with the live device.
 
-https://github.com/user-attachments/assets/c555aa6e-99a4-43fe-a57c-13d56828adca
+https://github.com/user-attachments/assets/6cdf3235-9474-47c3-bd3f-00d36098369f
+
 
 Frontend Code is here
 https://github.com/ishan-xy/rfid-frontend
