@@ -28,3 +28,5 @@ Screen recording of the dashboard interacting with the live device.
 
 https://github.com/user-attachments/assets/c555aa6e-99a4-43fe-a57c-13d56828adca
 
+Frontend Code is here
+https://github.com/ishan-xy/rfid-frontend
