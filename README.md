@@ -30,3 +30,7 @@ https://github.com/user-attachments/assets/c555aa6e-99a4-43fe-a57c-13d56828adca
 
 Frontend Code is here
 https://github.com/ishan-xy/rfid-frontend
+
+---
+## System Architechure Diagram
+<img width="1588" height="1253" alt="diagram-export-5-16-2026-10_50_39-PM" src="https://github.com/user-attachments/assets/5ad27729-5856-40c2-8c04-3e03385c3ecb" />
